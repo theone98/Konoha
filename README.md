@@ -11,8 +11,8 @@
 **-** MongoDB was used for database storage and management    
 
 **External  dependencies required**  
-1.Express  
-2.Morgan  
+1.express  
+2.morgan  
 3.monk  
 4.cors  
 5.nodemon  
