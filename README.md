@@ -5,7 +5,7 @@
 **Android view Konoha Blog page**  
        
 **Konoha**  
-A responsive mobile web app for blogging,made using HTML,CSS,Java-script,Node.js and mongoDB  
+A responsive mobile web app for blogging in which admin on admin page after making a blog post and redirect it to blog web page,made using HTML,CSS,Java-script,Node.js and mongoDB  
 HTML,CSS,Java-script was used for front end  
 Node.js was use for server side backend  
 MongoDB was used for database storage and management    
