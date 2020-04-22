@@ -17,5 +17,5 @@ form.addEventListener('submit', (event) => {
       console.log(crt);
       form.reset();
     });
-  window.location.href="D:/Upside-Down-Full-stack-Devp.-Project--master/SFO/blog.html";
+  window.location.href="<address of blog web page>";
 });
