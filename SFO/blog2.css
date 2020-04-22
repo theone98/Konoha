@@ -1,0 +1,67 @@
+
+
+body
+{
+      background:#1589FF;
+
+}
+
+.messages
+{
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 25px;
+}
+button{
+  background: white;
+}
+#x{
+  text-align: center;
+  color:white;
+
+}
+h3
+{
+  text-align: justify;
+  font-style: italic;
+  padding-left: 20px;
+  background-color: 	#2554C7;
+  color: white;
+}
+h5
+{
+  font-style: italic;
+  text-align: justify;
+  padding-left: 20px;
+  background-color: 	#F0F0F0;
+}
+p{
+  text-align: justify;
+  padding-left: 20px;
+  background-color: #F8F8F8;
+}
+img{
+  position: absolute;
+  right: 70px;
+  width: 200px;
+  top:70px;
+  padding: 0px;
+}
+
+@media screen and (max-width: 436px){
+
+img{
+  width:200px;
+  top:60px;
+  right:0px;
+}
+
+
+.messages
+{
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top:0px;
+}
+}
